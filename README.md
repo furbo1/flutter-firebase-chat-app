@@ -1,8 +1,7 @@
 # Flash Chat ⚡️
 
 ## Overview
-
-Flash Chat is a modern, real-time messaging app powered by Flutter and Firebase. It features user authentication and cloud-based messaging, offering a dynamic platform for users to sign up, log in, and engage in conversations with others. The app showcases the integration of Firebase Cloud Firestore for real-time message exchanges and Firebase Auth for secure user authentication, delivering a comprehensive chat experience.
+This app was built based on LondonAppBrewery's Flutter Development Bootcamp. The app is a modern, real-time messaging app powered by Flutter and Firebase. It features user authentication and cloud-based messaging, offering a dynamic platform for users to sign up, log in, and engage in conversations with others. The app showcases the integration of Firebase Cloud Firestore for real-time message exchanges and Firebase Auth for secure user authentication, delivering a comprehensive chat experience.
 
 ## Features
 
